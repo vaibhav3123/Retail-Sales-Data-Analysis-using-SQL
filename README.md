@@ -74,6 +74,7 @@ WHERE sale_date IS NULL OR sale_time IS NULL OR customer_id IS NULL
 
 ### 3️⃣ Data Analysis & Insights
 
+
 **📊 Key Business Questions Answered Using SQL**
 
 1️⃣ **Sales on a Specific Date ('2022-11-05')**
@@ -173,17 +174,17 @@ ORDER BY total_orders DESC;
 
 ### **📌 Findings & Recommendations**
 
-- ** Customer Demographics:** Sales are distributed across various age groups and product categories.
-- ** High-Value Transactions:** Several purchases exceed $1000, highlighting premium products.
-- ** Sales Trends:** Identified best-selling months and seasonal consumer trends.
-- ** Customer Insights:** Determined top-spending customers and popular product categories.
+- **Customer Demographics:** Sales are distributed across various age groups and product categories.
+- **High-Value Transactions:** Several purchases exceed $1000, highlighting premium products.
+- **Sales Trends:** Identified best-selling months and seasonal consumer trends.
+- **Customer Insights:** Determined top-spending customers and popular product categories.
 
 **✅ Recommendations:**
 
-- ** Inventory Management:** Stock up on high-demand products in peak sales months.
-- ** Targeted Marketing:** Focus promotions on high-value customers and top-selling categories.
-- ** Shift Optimization:** Allocate resources based on peak sales times.
-- ** Seasonal Promotions:** Introduce discounts during high-sales periods.
+- **Inventory Management:** Stock up on high-demand products in peak sales months.
+- **Targeted Marketing:** Focus promotions on high-value customers and top-selling categories.
+- **Shift Optimization:** Allocate resources based on peak sales times.
+- **Seasonal Promotions:** Introduce discounts during high-sales periods.
 
 ---
 
