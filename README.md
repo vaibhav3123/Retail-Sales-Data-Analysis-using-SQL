@@ -1,6 +1,5 @@
 **🛍️ Retail Sales Analysis SQL Project**
 
-**📌 Project Overview**
 This project demonstrates SQL techniques used for analyzing retail sales data. It involves setting up a database, performing exploratory data analysis (EDA), and answering key business questions through SQL queries.
 
 **🎯 Objectives**
@@ -187,8 +186,11 @@ ORDER BY total_orders DESC;
 ### **🔧 How to Use**
 
 1️⃣ Load the dataset into a PostgreSQL database.
+
 2️⃣ Run the SQL queries to explore and analyze the data.
+
 3️⃣ Modify or extend queries based on your analysis needs.
+
 
 ### **🛠️ Tools Used**
 
