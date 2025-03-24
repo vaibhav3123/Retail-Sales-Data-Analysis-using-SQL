@@ -2,6 +2,7 @@
 
 This project demonstrates SQL techniques used for analyzing retail sales data. It involves setting up a database, performing exploratory data analysis (EDA), and answering key business questions through SQL queries.
 
+
 **🎯 Objectives**
 
 **🗄️ Database Setup:** Create and populate a retail sales database.
@@ -172,17 +173,17 @@ ORDER BY total_orders DESC;
 
 ### **📌 Findings & Recommendations**
 
-- **👥 Customer Demographics:** Sales are distributed across various age groups and product categories.
-- **💰 High-Value Transactions:** Several purchases exceed $1000, highlighting premium products.
-- **📅 Sales Trends:** Identified best-selling months and seasonal consumer trends.
-- **🔝 Customer Insights:** Determined top-spending customers and popular product categories.
+- ** Customer Demographics:** Sales are distributed across various age groups and product categories.
+- ** High-Value Transactions:** Several purchases exceed $1000, highlighting premium products.
+- ** Sales Trends:** Identified best-selling months and seasonal consumer trends.
+- ** Customer Insights:** Determined top-spending customers and popular product categories.
 
 **✅ Recommendations:**
 
-- **📦 Inventory Management:** Stock up on high-demand products in peak sales months.
-- **🎯 Targeted Marketing:** Focus promotions on high-value customers and top-selling categories.
-- **⏰ Shift Optimization:** Allocate resources based on peak sales times.
-- **💸 Seasonal Promotions:** Introduce discounts during high-sales periods.
+- ** Inventory Management:** Stock up on high-demand products in peak sales months.
+- ** Targeted Marketing:** Focus promotions on high-value customers and top-selling categories.
+- ** Shift Optimization:** Allocate resources based on peak sales times.
+- ** Seasonal Promotions:** Introduce discounts during high-sales periods.
 
 ---
 
@@ -198,7 +199,7 @@ ORDER BY total_orders DESC;
 ### **🛠️ Tools Used**
 
 - PostgreSQL for SQL queries.
-- DBeaver / pgAdmin for query execution and database management.
+- pgAdmin for query execution and database management.
 
 ---
 
