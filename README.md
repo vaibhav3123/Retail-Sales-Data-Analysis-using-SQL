@@ -4,10 +4,10 @@ This project demonstrates SQL techniques used for analyzing retail sales data. I
 
 **🎯 Objectives**
 
-- **🗄️ Database Setup:** Create and populate a retail sales database.
-- **🧹 Data Cleaning:** Identify and remove records with missing values.
-- **📊 Exploratory Data Analysis:** Gain insights by exploring the dataset.
-- **💡 Business Analysis:** Use SQL queries to derive meaningful insights.
+**🗄️ Database Setup:** Create and populate a retail sales database.
+**🧹 Data Cleaning:** Identify and remove records with missing values.
+**📊 Exploratory Data Analysis:** Gain insights by exploring the dataset.
+**💡 Business Analysis:** Use SQL queries to derive meaningful insights.
 
 ---
 
